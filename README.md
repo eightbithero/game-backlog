@@ -4,6 +4,7 @@
 
 | Thumbnail | Название | Платформа | HLTB | Моя оценка | Дата завершения |
 |-----------|----------|-----------|------|------------|-----------------|
+| | Terminator 2D: No Fate | Switch | 1.19 | Играбельно, но pixelart хороший только в тех местах что были в трейлерах, потом кажется на художниках сэкономили. 30$ в Nstore, в стиме 16$ что более справедливо | 26/01/09 |
 | | | | | | |
 
 ## 📋 Следующее
@@ -430,7 +431,7 @@
 | | luftrausers | GOG | 4.05 | | |
 | | LUFTRAUSERS | STEAM | 4.05 | | |
 | | Luigi Mansion 3 | Switch | 13.28 | | |
-| | lula_the_sexy_empire | GOG | | | |
+| | lula_the_sexy_empire | GOG | 16.5 | | |
 | | lure_of_the_temptress | GOG | 3.7 | | |
 | | Machinarium | STEAM | 5.23 | | |
 | | Mad Max | STEAM | 20.15 | | |

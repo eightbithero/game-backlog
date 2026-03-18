@@ -1,0 +1,6 @@
+title: Game Backlog
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"

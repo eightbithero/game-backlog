@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | default: site.title }}</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; max-width: 1200px; margin: 0 auto; padding: 16px; }
+    table { border-collapse: collapse; width: 100%; }
+    th, td { border: 1px solid #d0d7de; padding: 6px 13px; }
+    th { background: #f6f8fa; cursor: pointer; user-select: none; white-space: nowrap; }
+    th.asc::after { content: " ↑"; }
+    th.desc::after { content: " ↓"; }
+    tr:nth-child(even) { background: #f6f8fa; }
+  </style>
+</head>
+<body>
+  {{ content }}
+  <script>
+    document.querySelectorAll('table').forEach(function(table) {
+      var headers = table.querySelectorAll('th');
+      headers.forEach(function(th) {
+        th.addEventListener('click', function() {
+          var idx = th.cellIndex;
+          var tbody = table.querySelector('tbody');
+          if (!tbody) return;
+          var rows = Array.from(tbody.querySelectorAll('tr'));
+          var asc = !th.classList.contains('asc');
+
+          headers.forEach(function(h) { h.classList.remove('asc', 'desc'); });
+          th.classList.add(asc ? 'asc' : 'desc');
+
+          rows.sort(function(a, b) {
+            var ca = (a.cells[idx] || {}).textContent.trim();
+            var cb = (b.cells[idx] || {}).textContent.trim();
+
+            // HLTB column (index 3) — numeric sort
+            if (idx === 3) {
+              var na = parseFloat(ca);
+              var nb = parseFloat(cb);
+              var ea = isNaN(na);
+              var eb = isNaN(nb);
+              if (ea && eb) return 0;
+              if (ea) return asc ? 1 : -1;
+              if (eb) return asc ? -1 : 1;
+              return asc ? na - nb : nb - na;
+            }
+
+            return asc
+              ? ca.toLowerCase().localeCompare(cb.toLowerCase())
+              : cb.toLowerCase().localeCompare(ca.toLowerCase());
+          });
+
+          rows.forEach(function(r) { tbody.appendChild(r); });
+        });
+      });
+    });
+  </script>
+</body>
+</html>

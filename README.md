@@ -40,9 +40,14 @@
 | 20 Minutes Till Dawn | STEAM | 4.23 | |
 | 3DMark | STEAM | | |
 | 3DMark Demo | STEAM | | |
+| 9 Years of Shadows | STEAM | 7.17 | | |
+| Ведьмак 3: Дикая Охота | STEAM | 51.64 | | |
+| ЗВЁЗДНЫЕ ВОЙНЫ Джедаи: Павший Орден™ | STEAM | 17.27 | | |
 | Повестка | STEAM | | |
 | РУСЫ ПРОТИВ ЯЩЕРОВ | STEAM | | |
 | Санаторий у Седой Трески Demo | STEAM | | |
+| Хаус Флиппер | STEAM | 13.23 | | |
+| Хогвартс. Наследие | STEAM | 26.71 | | |
 | Черная Книга | STEAM | 20.65 | |
 | A way out | PS4 | 6.03 | |
 | ABZU | PS4 | 1.92 | |
@@ -60,6 +65,7 @@
 | Against the Storm | STEAM | 40.2 | |
 | Alan Wake 2 | XBOX | 19.08 | |
 | Alice: Madness Returns | STEAM | 13.9 | |
+| Alien Splatter Redux | STEAM | 2.08 | | |
 | Alwa's Awakening | STEAM | 7.52 | |
 | Alwa's Legacy | STEAM | 8.02 | |
 | alwas_awakening | GOG | 7.52 | |
@@ -119,8 +125,8 @@
 | Bot Vice | STEAM | 3.02 | |
 | Botanicula | STEAM | 3.55 | |
 | BPM | XBOX | 3.75 | |
-| bpm_bullets_per_minute | GOG | 3.75 | |
 | BPM: BULLETS PER MINUTE | STEAM | 3.75 | |
+| bpm_bullets_per_minute | GOG | 3.75 | |
 | Braid | STEAM | 5.13 | |
 | Braid, Anniversary Edition | STEAM | 5.13 | |
 | Bramble: The Mountain King | STEAM | 4.77 | |
@@ -152,7 +158,19 @@
 | Chorus | STEAM | 13.63 | |
 | CHUCHEL | STEAM | 2.15 | |
 | Comix Zero Playtest | STEAM | | |
+| Command & Conquer 3: Tiberium Wars™ | STEAM | 22.9 | | |
+| Command & Conquer 3: Ярость Кейна | STEAM | 7.87 | | |
+| Command & Conquer 4: Эпилог | STEAM | 8.32 | | |
+| Command & Conquer Red Alert™ 2 and Yuri’s Revenge™ | STEAM | 14.86 | | |
+| Command & Conquer Red Alert™, Counterstrike™ and The Aftermath™ | STEAM | 27.43 | | |
+| Command & Conquer Renegade™ | STEAM | 9.35 | | |
+| Command & Conquer™ and The Covert Operations™ | STEAM | 5.31 | | |
+| Command & Conquer™ Generals | STEAM | 14.69 | | |
+| Command & Conquer™ Generals Zero Hour | STEAM | 13.33 | | |
+| Command & Conquer™ Red Alert™ 3 | STEAM | 20.94 | | |
+| Command & Conquer™ Red Alert™ 3- Uprising | STEAM | 9.8 | | |
 | Command & Conquer™ Remastered Collection | STEAM | 32.2 | |
+| Command & Conquer™ Tiberian Sun™ and Firestorm™ | STEAM | 11.75 | | |
 | Control Ultimate Edition | XBOX | 11.78 | |
 | Control ultimate edition | XBOX | 11.78 | |
 | Control Ultimate Edition | STEAM | 11.78 | |
@@ -179,8 +197,11 @@
 | cyberpunk_2077_digital_goodies | GOG | | |
 | CYBORG FORCE | STEAM | | |
 | Darkest Dungeon® | STEAM | 56.67 | |
+| Darksiders | STEAM | 17.07 | | |
 | Darksiders Genesis | STEAM | 14.52 | |
+| Darksiders II Deathinitive Edition | STEAM | 19.83 | | |
 | Darksiders III | STEAM | 14.33 | |
+| Darksiders Warmastered Edition | STEAM | 17.07 | | |
 | DAVE THE DIVER | STEAM | 24.95 | |
 | Day of Defeat | STEAM | | |
 | Day of Defeat: Source | STEAM | | |
@@ -200,6 +221,7 @@
 | Deponia Doomsday | STEAM | 11.13 | |
 | desperados_2 | GOG | 24.5 | |
 | desperados_wanted_dead_or_alive | GOG | 23.73 | |
+| Detroit: Become Human | STEAM | 12.08 | | |
 | Deus Ex Minkind Divided | PS4 | 16.27 | |
 | Deus Ex: Game of the Year Edition | STEAM | 22.87 | |
 | DeusEx Human Revolution | XBOX | 21.9 | |
@@ -216,6 +238,7 @@
 | Dishonored 2 | XBOX | 12.9 | |
 | Dishonored Death of outsiders | XBOX | 6.62 | |
 | Disney's Hercules | STEAM | 2.7 | |
+| Dispatch | STEAM | 8.55 | | |
 | DOA6 | XBOX | 3.2 | |
 | DON'T SCREAM | STEAM | 0.62 | |
 | Don't Starve | STEAM | 29.45 | |
@@ -263,17 +286,18 @@
 | Fable 3 | XBOX | 13.8 | |
 | Fable Aniversary | XBOX | 13.43 | |
 | Fae Tactics | STEAM | 38.65 | |
+| Fahrenheit: Indigo Prophecy Remastered | STEAM | 8.13 | | |
 | Fallout | STEAM | 16.5 | |
 | Fallout 2 | STEAM | 30.95 | |
 | Fallout 3 - Game of the Year Edition | STEAM | 23.43 | |
 | Fallout 4 | STEAM | 28.38 | |
 | Fallout Tactics | STEAM | 27.3 | |
+| Fallout: New Vegas | STEAM | 27.37 | |
+| Fallout: New Vegas PCR | STEAM | 27.37 | |
 | fallout_2_classic | GOG | 30.95 | |
 | fallout_classic | GOG | 16.5 | |
 | fallout_london | GOG | | |
 | fallout_tactics_classic | GOG | 27.3 | |
-| Fallout: New Vegas | STEAM | 27.37 | |
-| Fallout: New Vegas PCR | STEAM | 27.37 | |
 | Far Cry 2 | STEAM | 17.13 | |
 | Far Cry® 3 | STEAM | 16.32 | |
 | Fenimore Fillmore: 3 Skulls of the Toltecs | STEAM | 7.3 | |
@@ -281,9 +305,11 @@
 | FF 7 Remaster | PS4 | 32.55 | |
 | Final Fantasy 7 | XBOX | 36.87 | |
 | FINAL FANTASY VII | STEAM | 36.87 | |
+| FINAL FANTASY VII (2013) | STEAM | 36.0 | | |
 | FINAL FANTASY VIII | STEAM | 39.03 | |
 | Final Fantasy X / X-2 | XBOX | 46.15 | |
 | final_doom_game | GOG | 12.88 | |
+| Fist Slash: Of Ultimate Fury | STEAM | 2.37 | | |
 | FlatOut | STEAM | 7.02 | |
 | FlatOut 2 | STEAM | 12.92 | |
 | FlatOut 3: Chaos & Destruction | STEAM | 6.1 | |
@@ -296,9 +322,13 @@
 | Full Void | STEAM | 2.8 | |
 | full_throttle_remastered | GOG | 4.07 | |
 | Game Dev Story | STEAM | 7.22 | |
+| Gestalt: Steam & Cinder | STEAM | 6.91 | | |
 | GetsuFumaDen: Undying Moon | STEAM | 5.78 | |
+| Ghost of a Tale | STEAM | 11.41 | | |
 | Ghost Song | STEAM | 9.97 | |
 | ghost_of_a_tale | GOG | 11.35 | |
+| Ghostrunner | STEAM | 7.09 | | |
+| Ghostwire: Tokyo | STEAM | 11.39 | | |
 | gobliiins | GOG | 3.77 | |
 | gobliins_2_the_prince_buffoon | GOG | 3.88 | |
 | goblins_quest_3 | GOG | 6.55 | |
@@ -310,6 +340,7 @@
 | Gothic II: Gold Classic | STEAM | 45.33 | |
 | Gothic Playable Teaser | STEAM | 2.03 | |
 | Graveyard Keeper | STEAM | 46.67 | |
+| Gravity Circuit | STEAM | 4.92 | | |
 | Grim Dawn | STEAM | 21.9 | |
 | GRIP: Combat Racing | STEAM | 14.07 | |
 | GRIS | STEAM | 3.58 | |
@@ -389,6 +420,7 @@
 | It Takes Two | XBOX | 12.88 | |
 | Jamestown+ | STEAM | 2.68 | |
 | jazz_jackrabbit_collection | GOG | 5.57 | |
+| Jet Gunner | STEAM | 1.89 | | |
 | jill_of_the_jungle_the_complete_trilogy | GOG | 1.1 | |
 | jim_power_the_lost_dimension | GOG | 1.08 | |
 | Journey  | PS4 | 2.0 | |
@@ -407,6 +439,7 @@
 | Kingdom Come: Deliverance II | STEAM | 54.55 | |
 | Kingdom Hearts 1.5 + 2.5 | XBOX | 27.65 | |
 | Kingdom Hearts 3 | XBOX | 29.07 | |
+| King’s Bounty. Легенда о рыцаре | STEAM | 35.87 | | |
 | knights_and_merchants_the_peasants_rebellion | GOG | 58.0 | |
 | Kof 2000 | XBOX | 0.73 | |
 | KOF 2000 | GOG | 0.73 | |
@@ -426,6 +459,7 @@
 | Lamentum | XBOX | 5.43 | |
 | Left 4 Dead | STEAM | 6.97 | |
 | Left 4 Dead 2 | STEAM | 10.52 | |
+| Legacy of Kain™ Soul Reaver 1&2 Remastered | STEAM | 17.91 | | |
 | legacy_of_kain_soul_reaver_2 | GOG | 9.68 | |
 | legend_of_kyrandia | GOG | 3.9 | |
 | legend_of_kyrandia_hand_of_fate | GOG | 4.63 | |
@@ -434,6 +468,8 @@
 | Lego City Undercover | XBOX | 15.82 | |
 | Lego star wars skywalker saga | XBOX | 19.2 | |
 | LEGO® Bricktales | STEAM | 9.97 | |
+| LEGO® Harry Potter: Years 1-4 | STEAM | 12.05 | | |
+| LEGO® Harry Potter: Years 5-7 | STEAM | 11.12 | | |
 | LEGO® The Lord of the Rings™ | STEAM | 10.15 | |
 | leisure_suit_larry_reloaded | GOG | 3.98 | |
 | little_big_adventure | GOG | 11.53 | |
@@ -460,6 +496,7 @@
 | Mafia III: Definitive Edition | STEAM | 24.97 | |
 | Mafia: Definitive Edition | STEAM | 10.72 | |
 | Mainframe Defenders | STEAM | 6.72 | |
+| Manhunt | STEAM | 10.94 | | |
 | Maniac Mansion | STEAM | 3.18 | |
 | Manor Lords | STEAM | 11.02 | |
 | Marvel Rivals | STEAM | | |
@@ -542,6 +579,7 @@
 | Overcooked | STEAM | 7.83 | |
 | Overcooked! 2 | STEAM | 7.17 | |
 | Overwatch 2 | XBOX | | |
+| Overwatch® | STEAM | 42.73 | | |
 | Overwatch® 2 | STEAM | | |
 | Owlboy | STEAM | 8.42 | |
 | Pacific Drive | STEAM | 21.17 | |
@@ -551,17 +589,19 @@
 | Pathway | STEAM | 11.68 | |
 | PC Building Simulator | STEAM | 22.88 | |
 | Peaky Blinders | XBOX | 6.02 | |
+| Perceptum Playtest | STEAM |  | | |
 | Perfect Dark | XBOX | 8.07 | |
 | Pilgrims (Пилигримы) | STEAM | 0.9 | |
 | Pixel Art Academy: Learn Mode | STEAM | | |
 | Pizza Tower | STEAM | 6.52 | |
+| Planescape: Torment: Enhanced Edition | STEAM | 31.55 | |
 | planescape_torment | GOG | 31.55 | |
 | planescape_torment_enhanced_edition_game | GOG | 31.55 | |
-| Planescape: Torment: Enhanced Edition | STEAM | 31.55 | |
 | Planet of Lana | XBOX | 4.68 | |
 | Planet of Lana | STEAM | 4.68 | |
 | Portal | STEAM | 3.23 | |
 | Portal 2 | STEAM | 8.85 | |
+| POSTAL 2 | STEAM | 7.01 | | |
 | PowerSlave Exhumed | STEAM | 7.72 | |
 | Prey | XBOX | 16.45 | |
 | Prey | STEAM | 16.45 | |
@@ -590,6 +630,8 @@
 | Red Faction | STEAM | 6.02 | |
 | Red Faction: Armageddon | STEAM | 8.03 | |
 | Resideint Evil 2 Revelations | XBOX | 10.42 | |
+| Resident Evil | STEAM | 6.65 | | |
+| Resident Evil 0 | STEAM | 11.23 | | |
 | Resident Evil 2 | STEAM | 9.05 | |
 | Resident Evil 3 | STEAM | 6.07 | |
 | Resident Evil 4 | XBOX | 16.32 | |
@@ -610,6 +652,7 @@
 | RoboCop: Rogue City | STEAM | 11.9 | |
 | RollerCoaster Tycoon: Deluxe | STEAM | 18.87 | |
 | RPG Maker MV | STEAM | | |
+| RUINER | STEAM | 5.42 | | |
 | Ryse: Son of Rome | STEAM | 6.52 | |
 | Sacred 2 | XBOX | 25.85 | |
 | Sam & Max Hit the Road | STEAM | 5.32 | |
@@ -621,7 +664,14 @@
 | Scorn | XBOX | 5.48 | |
 | Sekiro | XBOX | 30.33 | |
 | SENRAN KAGURA Burst Re:Newal | STEAM | 15.33 | |
+| Serious Sam 3: BFE | STEAM | 10.06 | | |
 | Serious Sam 4 | STEAM | 9.5 | |
+| Serious Sam Classic: The First Encounter | STEAM | 6.39 | | |
+| Serious Sam Classic: The Second Encounter | STEAM | 8.13 | | |
+| Serious Sam Classics: Revolution | STEAM | 11.87 | | |
+| Serious Sam Fusion 2017 (beta) | STEAM | 22.92 | | |
+| Serious Sam HD: The First Encounter | STEAM | 6.21 | | |
+| Serious Sam HD: The Second Encounter | STEAM | 7.43 | | |
 | Shadow of the Tomb Raider | STEAM | 12.92 | |
 | Shadow of tomb raider | XBOX | 12.92 | |
 | Shadow Tactics: Blades of the Shogun | STEAM | 24.78 | |
@@ -650,6 +700,7 @@
 | Soulstone Survivors | STEAM | 10.28 | |
 | South Park Fractured but Whole | XBOX | 18.3 | |
 | South Park The Dtick of Thuth | XBOX | 11.48 | |
+| South Park The Fractured But Whole | STEAM | 18.19 | | |
 | South Park™: The Stick of Truth™ | STEAM | 11.48 | |
 | space_quest_4_roger_wilco_and_the_time_rippers | GOG | 4.98 | |
 | space_quest_5_the_next_mutation | GOG | 5.95 | |
@@ -658,9 +709,12 @@
 | SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated | STEAM | 8.97 | |
 | Spyro Reignithed Trilogy | XBOX | 17.4 | |
 | Spyro™ Reignited Trilogy | STEAM | 17.4 | |
+| Stacking | STEAM | 3.98 | | |
+| STAR WARS Jedi: Survivor™ | STEAM | 20.56 | | |
 | Star Wars KOTOR | XBOX | 29.28 | |
 | Star Wars KOTOR 2 | XBOX | 31.03 | |
 | Star Wars RACER | XBOX | 5.42 | |
+| STAR WARS™ Episode I Racer | STEAM | 4.86 | | |
 | STAR WARS™: Dark Forces | STEAM | 8.43 | |
 | star_wars_dark_forces | GOG | 8.43 | |
 | star_wars_episode_i_racer | GOG | 5.42 | |
@@ -715,6 +769,7 @@
 | Terminator: Resistance | STEAM | 9.62 | |
 | The Banner Saga | STEAM | 10.92 | |
 | The Binding of Isaac | STEAM | 11.65 | |
+| The Binding of Isaac: Rebirth | STEAM | 5.62 | | |
 | The Deed: Dynasty | STEAM | 5.25 | |
 | The Dig | STEAM | 7.02 | |
 | The Elder Scrolls III: Morrowind | STEAM | 43.08 | |
@@ -729,10 +784,12 @@
 | THE KING OF FIGHTERS 2002 UNLIMITED MATCH | STEAM | 2.48 | |
 | THE KING OF FIGHTERS XIII STEAM EDITION | STEAM | 2.93 | |
 | The Playroom VR | PS4VR | 1.78 | |
+| The Quarry | STEAM | 10 | |
 | The Saboteur | STEAM | 11.02 | |
 | The Sims™ 4 | STEAM | 24.27 | |
 | The Sinking City Remastered | STEAM | 18.77 | |
 | The Stanley Parable: Ultra Deluxe | STEAM | 2.2 | |
+| The Vagrant | STEAM | 9.08 | | |
 | The Vale | XBOX | | |
 | The Vale | STEAM | | |
 | The Whispered World Special Edition | STEAM | 10.17 | |
@@ -762,6 +819,7 @@
 | Tomb Raider anniversary | XBOX | 12.47 | |
 | Tomb Raider Definitive Edition | XBOX | 11.65 | |
 | Tomb Raider underworld | XBOX | 9.77 | |
+| Tormented Souls | STEAM | 9.44 | | |
 | townscaper | GOG | 0.88 | |
 | Two Point Hospital | STEAM | 40.47 | |
 | tyrian_2000 | GOG | 6.88 | |
@@ -809,6 +867,7 @@
 | Ys: The Oath in Felghana | STEAM | 11.07 | |
 | Zelda BOTW | Switch | 50.68 | |
 | Zelda TOTK | Switch | 58.38 | |
+| ZONE OF THE ENDERS THE 2nd RUNNER : MARS / ANUBIS ZONE OF THE ENDERS : MARS | STEAM | 6.46 | | |
 | みんなで空気読み。 | STEAM | | |
 | 你的老婆 | STEAM | | |
 | 嗜血印 Bloody Spell | STEAM | | |
